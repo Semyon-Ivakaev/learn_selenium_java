@@ -6,19 +6,12 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxOptions;
-import org.openqa.selenium.ie.InternetExplorerDriver;
+
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
-import java.io.File;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
-import java.util.concurrent.TimeUnit;
+
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 

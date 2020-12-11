@@ -43,6 +43,7 @@ public class AddElementsInBasket {
             // добавляем товар в корзину и закрываем окно быстрого просмотра товара
             driver.findElement(By.cssSelector(".b-product__basket-btn-field")).click();
             driver.findElement(By.cssSelector(".fancybox-close-small")).click();
+            wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(".b-control-nav__link_basket span")));
 
             // инт для нового значения товара для ассерта
             int newCountBasket = Integer.parseInt(driver.findElement(By.cssSelector(".b-control-nav__link_basket span"))

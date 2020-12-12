@@ -26,13 +26,14 @@ public class Main {
     public void start(){
         driver = new ChromeDriver();
         wait = new WebDriverWait(driver, 10);
+        driver.manage().window().maximize();
     }
 
     @Test
     public void testAddElementsInBasket() throws InterruptedException {
         driver.get("https://shop.atributika.ru/");
         addElementsInBasket(driver, wait);
-        removeElementsFromBasket(driver, wait);
+        //removeElementsFromBasket(driver, wait);
     }
 
     @After

@@ -27,7 +27,6 @@ public class RemoveElementsFromBasket {
             } catch (Exception e) {
 
             }
-
         }
 
         // после удаления всех товаров ждем, что число обновится до 0

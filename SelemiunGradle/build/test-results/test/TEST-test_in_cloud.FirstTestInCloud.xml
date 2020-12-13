@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_in_cloud.FirstTestInCloud" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-13T18:54:33" hostname="LAPTOP-KLC841F5" time="55.92">
+  <properties/>
+  <testcase name="test" classname="test_in_cloud.FirstTestInCloud" time="55.92"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+дек 13, 2020 9:54:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+дек 13, 2020 9:54:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+дек 13, 2020 9:55:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

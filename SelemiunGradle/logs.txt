@@ -1,0 +1,54 @@
+Tue Dec 15 14:51:35 MSK 2020 Search: By.name: username
+Tue Dec 15 14:51:35 MSK 2020 Find: By.name: username
+Tue Dec 15 14:51:35 MSK 2020 Search: By.name: username
+Tue Dec 15 14:51:35 MSK 2020 Find: By.name: username
+Tue Dec 15 14:51:35 MSK 2020 Search: By.name: password
+Tue Dec 15 14:51:35 MSK 2020 Find: By.name: password
+Tue Dec 15 14:51:35 MSK 2020 Search: By.name: password
+Tue Dec 15 14:51:35 MSK 2020 Find: By.name: password
+Tue Dec 15 14:51:36 MSK 2020 Search: By.cssSelector: .btn
+Tue Dec 15 14:51:36 MSK 2020 Find: By.cssSelector: .btn
+Tue Dec 15 14:51:36 MSK 2020 Search: By.cssSelector: .btn
+Tue Dec 15 14:51:36 MSK 2020 Find: By.cssSelector: .btn
+Tue Dec 15 14:51:36 MSK 2020 Search: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:36 MSK 2020 Find: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:37 MSK 2020 Search: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:37 MSK 2020 Find: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:37 MSK 2020 Search: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:41 MSK 2020 Find: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:41 MSK 2020 Search: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:41 MSK 2020 Find: By.cssSelector: #box-apps-menu
+Tue Dec 15 14:51:41 MSK 2020 Search: By.cssSelector: [data-code='catalog']
+Tue Dec 15 14:51:41 MSK 2020 Find: By.cssSelector: [data-code='catalog']
+Tue Dec 15 14:51:41 MSK 2020 Search: By.cssSelector: [data-code='catalog']
+Tue Dec 15 14:51:41 MSK 2020 Find: By.cssSelector: [data-code='catalog']
+Tue Dec 15 14:51:43 MSK 2020 Search: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:43 MSK 2020 Find: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:43 MSK 2020 Search: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:43 MSK 2020 Find: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:44 MSK 2020 Search: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:44 MSK 2020 Find: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:44 MSK 2020 Search: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:44 MSK 2020 Find: By.xpath: //*[text()='ducks']
+Tue Dec 15 14:51:44 MSK 2020 Search: By.cssSelector: tbody tr
+Tue Dec 15 14:51:44 MSK 2020 Find: By.cssSelector: tbody tr
+Tue Dec 15 14:51:44 MSK 2020 Search: By.cssSelector: tbody tr
+Tue Dec 15 14:51:44 MSK 2020 Find: By.cssSelector: tbody tr
+Tue Dec 15 14:51:44 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(3) td:nth-child(3) a
+Tue Dec 15 14:51:45 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(3) td:nth-child(3) a
+Tue Dec 15 14:51:45 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(3) td:nth-child(3) a
+Tue Dec 15 14:51:45 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(3) td:nth-child(3) a
+Tue Dec 15 14:51:48 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(3) td:nth-child(3) a
+Tue Dec 15 14:51:48 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(3) td:nth-child(3) a
+Tue Dec 15 14:51:48 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(4) td:nth-child(3) a
+Tue Dec 15 14:51:48 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(4) td:nth-child(3) a
+Tue Dec 15 14:51:48 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(4) td:nth-child(3) a
+Tue Dec 15 14:51:48 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(4) td:nth-child(3) a
+Tue Dec 15 14:51:51 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(4) td:nth-child(3) a
+Tue Dec 15 14:51:51 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(4) td:nth-child(3) a
+Tue Dec 15 14:51:51 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(5) td:nth-child(3) a
+Tue Dec 15 14:51:51 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(5) td:nth-child(3) a
+Tue Dec 15 14:51:51 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(5) td:nth-child(3) a
+Tue Dec 15 14:51:51 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(5) td:nth-child(3) a
+Tue Dec 15 14:51:54 MSK 2020 Search: By.cssSelector: tbody tr:nth-child(5) td:nth-child(3) a
+Tue Dec 15 14:51:54 MSK 2020 Find: By.cssSelector: tbody tr:nth-child(5) td:nth-child(3) a

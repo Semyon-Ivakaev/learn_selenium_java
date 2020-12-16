@@ -33,7 +33,7 @@ public class Main {
     public void testAddElementsInBasket() throws InterruptedException {
         driver.get("https://shop.atributika.ru/");
         addElementsInBasket(driver, wait);
-        //removeElementsFromBasket(driver, wait);
+        removeElementsFromBasket(driver, wait);
     }
 
     @After

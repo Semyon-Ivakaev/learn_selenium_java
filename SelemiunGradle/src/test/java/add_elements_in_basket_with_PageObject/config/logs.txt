@@ -1,0 +1,25 @@
+Wed Dec 16 22:02:51 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (23230f0372ceaea63b3a7154e3240ead)] -> css selector: section [aria-live='polite'] .b-catalog__item:nth-child(1) .b-item__view-btn]
+Wed Dec 16 22:03:02 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (23230f0372ceaea63b3a7154e3240ead)] -> css selector: .b-product__basket-btn-field]
+Wed Dec 16 22:03:02 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (23230f0372ceaea63b3a7154e3240ead)] -> css selector: .fancybox-close-small]
+Wed Dec 16 22:03:02 MSK 2020 - Exception: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.0.0-alpha-7', revision: 'de8579b6d5'
+System info: host: 'LAPTOP-KLC841F5', ip: '192.168.119.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: C:\Users\Vertigo\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:54837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 23230f0372ceaea63b3a7154e3240ead
+Wed Dec 16 22:04:18 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: section [aria-live='polite'] .b-catalog__item:nth-child(1) .b-item__view-btn]
+Wed Dec 16 22:04:29 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-product__basket-btn-field]
+Wed Dec 16 22:04:30 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .fancybox-close-small]
+Wed Dec 16 22:04:32 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: section [aria-live='polite'] .b-catalog__item:nth-child(2) .b-item__view-btn]
+Wed Dec 16 22:04:42 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-product__basket-btn-field]
+Wed Dec 16 22:04:43 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .fancybox-close-small]
+Wed Dec 16 22:04:44 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: section [aria-live='polite'] .b-catalog__item:nth-child(3) .b-item__view-btn]
+Wed Dec 16 22:04:46 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-product__size-field .b-size__btn]
+Wed Dec 16 22:04:46 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-product__basket-btn-field]
+Wed Dec 16 22:04:47 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .fancybox-close-small]
+Wed Dec 16 22:04:48 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-control-nav__link_basket]
+Wed Dec 16 22:04:48 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-basket-popup__item:nth-child(1) .b-basket-popup__item-remove-field]
+Wed Dec 16 22:04:52 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-basket-popup__item:nth-child(1) .b-basket-popup__item-remove-field]
+Wed Dec 16 22:04:55 MSK 2020 - Driver click on: [[ChromeDriver: chrome on WINDOWS (6b05fef502f8f1856b5f9559239eb11e)] -> css selector: .b-basket-popup__item:nth-child(1) .b-basket-popup__item-remove-field]

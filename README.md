@@ -43,3 +43,10 @@ Tue Dec 15 14:51:41 MSK 2020 Search: By.cssSelector: [data-code='catalog']
 Tue Dec 15 14:51:41 MSK 2020 Find: By.cssSelector: [data-code='catalog']
 Tue Dec 15 14:51:43 MSK 2020 Search: By.xpath: //*[text()='ducks']
 Tue Dec 15 14:51:43 MSK 2020 Find: By.xpath: //*[text()='ducks']
+
+8)add_elements_in_basket_with_PageObject :
+Задание: Переделать старый тест из пакета add_elements_in_basket по модели PageObject.
+ Config - настройки для запуска теста + вложенный класс для логирования (Пишу каждый клик драйвера + исключения).
+ BasePage - класс для общих методов.
+ MainPage - класс для методов на основной странице.
+ MainTest - класс для теста.
